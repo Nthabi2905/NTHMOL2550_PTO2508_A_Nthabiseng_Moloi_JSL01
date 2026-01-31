@@ -4,6 +4,27 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Kanban Board</title>
+
+    <!-- Tailwind CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              bg: "#F4F7FD",
+              card: "#FFFFFF",
+              textMuted: "#828FA3",
+              primary: "#635FC7",
+              todo: "#49C4E5",
+              doing: "#8471F2",
+              done: "#67E2AE",
+            },
+          },
+        },
+      };
+    </script>
   </head>
 
   <body>
