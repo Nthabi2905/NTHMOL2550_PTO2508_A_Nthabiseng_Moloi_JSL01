@@ -10,7 +10,7 @@ This challenge was part of the JSL01: Kanban Board Challenge by CodeSpace Academ
 
 The task was to create a fully responsive Kanban board interface that matches the provided Figma design specifications for both desktop and mobile views.
 
-Objectives:
+**Objectives:**
 
 - Structure and style the page to replicate the exact design specifications
 
@@ -26,12 +26,18 @@ This Portfolio Project is created as part of my coursework with CodeSpace Academ
 
 ## 📂 Project Structure
 
-📁 JSL01-Kanban-Board
+JSL01-2025-MAIN/
+├── assets/
+│ ├── favicon.svg
+│ ├── icon-board.svg
+│ └── logo-light.svg
+│
+├── explainer-images/
+│ ├── JSL01_Mobile.png
+│ └── JSL01-Desktop.png
+│
 ├── index.html
-├── README.md
-└── explainer-images/
-├── JSL01_Mobile.png
-└── JSL01-Desktop.png
+└── README.md
 
 ## 🛠️ Tools & Resources Used
 
