@@ -25,7 +25,7 @@ The task was to create a fully responsive Kanban board interface that matches th
 This Portfolio Project is created as part of my coursework with CodeSpace Academy.
 
 ## 📂 Project Structure
-
+ ```
 JSL01-2025-MAIN/
 ├── assets/ # Icons and logos
 │ ├── favicon.svg
@@ -38,7 +38,7 @@ JSL01-2025-MAIN/
 │
 ├── index.html # Main HTML entry point
 └── README.md # Project documentation
-
+```
 ## 🛠️ Tools & Resources Used
 
 Tailwind CSS → Utility-first CSS framework for rapid development
