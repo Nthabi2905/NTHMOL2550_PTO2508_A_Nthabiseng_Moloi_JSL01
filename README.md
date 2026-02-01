@@ -55,13 +55,13 @@ Another challenge was implementing the exact column counts and task content from
 
 ## 🚀 Features
 
-✅ Pixel-perfect responsive design matching Figma specifications
-✅ Mobile-first approach with stacked columns on small screens
-✅ Desktop layout with fixed sidebar and horizontal columns
-✅ Interactive elements with hover states and transitions
-✅ Consistent typography using Plus Jakarta Sans
-✅ Professional color scheme matching the design system
-✅ Clean, maintainable code with semantic HTML structure
+- ✅ Pixel-perfect responsive design matching Figma specifications
+- ✅ Mobile-first approach with stacked columns on small screens
+- ✅ Desktop layout with fixed sidebar and horizontal columns
+- ✅ Interactive elements with hover states and transitions
+- ✅ Consistent typography using Plus Jakarta Sans
+- ✅ Professional color scheme matching the design system
+- ✅ Clean, maintainable code with semantic HTML structure
 
 ## 📌 How to Run
 
