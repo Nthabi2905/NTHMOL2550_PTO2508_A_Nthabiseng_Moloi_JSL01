@@ -27,17 +27,17 @@ This Portfolio Project is created as part of my coursework with CodeSpace Academ
 ## 📂 Project Structure
 
 JSL01-2025-MAIN/
-├── assets/
+├── assets/ # Icons and logos
 │ ├── favicon.svg
 │ ├── icon-board.svg
 │ └── logo-light.svg
 │
-├── explainer-images/
+├── explainer-images/ # Screenshots for documentation
 │ ├── JSL01_Mobile.png
 │ └── JSL01-Desktop.png
 │
-├── index.html
-└── README.md
+├── index.html # Main HTML entry point
+└── README.md # Project documentation
 
 ## 🛠️ Tools & Resources Used
 
